@@ -1,4 +1,4 @@
-(ns midterm.core
+(ns sudoku-solver.core
   (:gen-class)
   (:require clojure.set))
 
@@ -7,9 +7,9 @@
 ;-------------------------------------------------------
 
 ;--Block Numbering--
-;1 2 3
-;4 5 6
-;7 8 9
+;	1 2 3
+;	4 5 6
+;	7 8 9
 ;-------------------
 
 (defn topLeft [blockNumber]
