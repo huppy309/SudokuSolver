@@ -1,4 +1,4 @@
-# sudoku_solver
+# Sudoku Solver
 
 This is a Sudoku Solver implemented in the Clojure (functional) programming language. As an example, a main method is included which uses the functions therein to solve a given Sudoku board:
 
@@ -22,4 +22,4 @@ Navigate to the sudoku_solver directory in a linux (bash) shell. To run the proj
 	lein run 
 ```
 
-Individual functions may also be tested by un-commenting the appropriate functions written in main.
+Individual functions may also be tested by un-commenting the appropriate calls written in main.
