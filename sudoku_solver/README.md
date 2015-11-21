@@ -18,6 +18,8 @@ All zeroes represent empty slots. Valid values are in the set [1-9]. The solutio
 
 Navigate to the sudoku_solver directory in a linux (bash) shell. To run the project you must have leiningen installed. Run the following command in the terminal to run the project:
 
-lein run 
+```
+	lein run 
+```
 
 Individual functions may also be tested by un-commenting the appropriate functions written in main.
